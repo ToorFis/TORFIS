@@ -1,0 +1,49 @@
+LICENSE
+
+Italiano:
+
+MIT License
+
+Copyright (c) 2024 El Harf Mohamed
+
+Permesso è concesso, gratuitamente, a chiunque ottenga una copia di questo software e dei file di documentazione associati (il "Software"), di utilizzare il Software senza restrizioni, inclusi senza limitazioni i diritti di usare, copiare, modificare, fondere, pubblicare, distribuire, sublicenziare e/o vendere copie del Software, a condizione che le seguenti condizioni siano rispettate:
+
+La sopra riportata nota di copyright e questa dichiarazione di permesso devono essere incluse in tutte le copie o in parti sostanziali del Software.
+
+IL SOFTWARE È FORNITO "COSÌ COM'È", SENZA GARANZIE DI NESSUN TIPO, ESPRESSE O IMPLICITE, INCLUSO MA NON LIMITATO A GARANZIE DI COMMERCIABILITÀ, IDONEITÀ PER UN PARTICOLARE SCOPO E NON VIOLAZIONE. IN NESSUN CASO GLI AUTORI O I TITOLARI DEL COPYRIGHT SARANNO RESPONSABILI PER QUALSIASI RECLAMO, DANNO O ALTRO RESPONSABILITÀ, SIA IN UN'AZIONE DI CONTRATTO, TORTO O ALTRO, DERIVANTE DA, O IN CONNESSIONE CON IL SOFTWARE O L'UTILIZZO O ALTRE OPERAZIONI DEL SOFTWARE.
+
+English:
+
+MIT License
+
+Copyright (c) 2024 El Harf Mohamed
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Français:
+
+Licence MIT
+
+Copyright (c) 2024 El Harf Mohamed
+
+Par la présente, il est accordé, gratuitement, à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le "Logiciel"), de traiter le Logiciel sans restriction, y compris sans limitation les droits d'utiliser, copier, modifier, fusionner, publier, distribuer, sous-licencier et/ou vendre des copies du Logiciel, sous réserve des conditions suivantes :
+
+La mention de copyright ci-dessus et cette déclaration de permission doivent être incluses dans toutes les copies ou parties substantielles du Logiciel.
+
+LE LOGICIEL EST FOURNI "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS MAIS SANS S'Y LIMITER AUX GARANTIES DE COMMERCIALISATION, D'ADÉQUATION À UN OBJECTIF PARTICULIER ET DE NON-VIOLATION. EN AUCUN CAS LES AUTEURS OU LES DÉTENTEURS DES DROITS D'AUTEUR NE POURRONT ÊTRE TENUS RESPONSABLES DE TOUTE RÉCLAMATION, DOMMAGE OU AUTRE RESPONSABILITÉ, QUE CE SOIT EN VERTU D'UN CONTRAT, DÉLIT OU AUTRE, RÉSULTANT DE, OU EN RELATION AVEC LE LOGICIEL OU SON UTILISATION OU AUTRES MANIPULATIONS DU LOGICIEL.
+
+العربية:
+
+رخصة MIT
+
+حقوق الطبع والنشر (c) 2024 El Harf Mohamed
+
+بموجب هذا، يتم منح الإذن، مجانًا، لأي شخص يحصل على نسخة من هذا البرنامج وملفات الوثائق المرتبطة به (الـ "البرمجيات")، للتعامل مع البرمجيات دون قيود، بما في ذلك بدون تحديد الحقوق في الاستخدام، النسخ، التعديل، الدمج، النشر، التوزيع، الترخيص الفرعي و/أو بيع نسخ من البرمجيات، بشرط أن يتم احترام الشروط التالية:
+
+يجب تضمين إشعار حقوق الطبع والنشر أعلاه وبيان الإذن هذا في جميع النسخ أو الأجزاء الكبيرة من البرمجيات.
+
+تُقدم البرمجيات "كما هي"، دون أي ضمان من أي نوع، صريح أو ضمني، بما في ذلك على سبيل المثال لا الحصر ضمانات القابلية للتسويق، الملاءمة لغرض معين وعدم الانتهاك. في أي حال من الأحوال، لن يكون المؤلفون أو حاملو حقوق الطبع والنشر مسؤولين عن أي مطالبة أو أضرار أو مسؤولية أخرى، سواء في إطار عقد أو ضرر أو غير ذلك، ناشئة عن، أو فيما يتعلق بالبرمجيات أو استخدامها أو التعاملات الأخرى في البرمجيات.
